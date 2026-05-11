@@ -2,7 +2,7 @@
 <h3 align="center">  Data Engineer | Building Scalable Data Pipelines & Lakehouse Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineer;Databricks+%7C+PySpark+%7C+ADF;Building+End-to-End+Data+Pipelines;Power+BI+Storytelling+Expert&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Data+Engineer;Databricks+%7C+PySpark+%7C+ADF;Building+End-to-End+Data+Pipelines;Generative+AI;&center=true&width=500&height=45">
 </p>
 
 ## 🧑‍💻 About Me
@@ -204,35 +204,33 @@
 
 <td align="center" width="33%">
 
-<h3>📊 BI Dashboard</h3>
+<h3>🤖 LangGraph RAG AI Chatbot</h3>
 
 ━━━━━━━━━━━━━━━━━━
 
-<p><b>⚙️ Power BI</b></p>
+<p><b>⚙️ LangGraph • RAG  • Pinecone</b></p>
 
 <br>
 
-📊 Interactive Reports  
-📊 KPI Tracking  
-📊 Drill-through Insights  
+🛠️ Production-Style RAG Chatbot  
+🛠️ PDF Understanding & Semantic    
+🛠️ Dynamic Tool Calling & Web Search  
+ 
 
 <br>
 
-<a href="https://github.com/bittumaurya/Power-BI-Projects" target="_blank">
+<a href="https://github.com/bittumaurya/RAG_Based_AI_Chatbot_Using_LangGraph" target="_blank">
   <img src="https://img.shields.io/badge/🔗%20View%20Project-000?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Data-Analytics-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-RAG%20Chatbot-orange?style=flat-square"/>
 
 </td>
 
 </tr>
 </table>
-
-</p>
-
 
 </p>
 
